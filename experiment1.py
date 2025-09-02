@@ -7,9 +7,11 @@ b = int(input("Enter second number : "))
 and_result = a & b
 or_result = a | b
 xor_result = a ^ b
+xor_result = a + b
 
 # Display results
 print("\n--- Bitwise Operations ---")
 print(f"Bitwise AND (&): {a} & {b} = {and_result}")
 print(f"Bitwise OR (|): {a} | {b} = {or_result}")
 print(f"Bitwise XOR (^): {a} ^ {b} = {xor_result}")
+print(f"Bitwise XOR (^): {a} * {b} = {xor_result}")
