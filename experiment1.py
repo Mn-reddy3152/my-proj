@@ -9,6 +9,8 @@ or_result = a | b
 xor_result = a ^ b
 xor_result = a + b
 print("hello")
+print("hello")
+
 
 
 # Display results
