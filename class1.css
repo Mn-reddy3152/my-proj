@@ -1,0 +1,23 @@
+#name{
+    text-align:center;
+    font-size: 50px;
+    color: brown;
+    background-color: black;
+}
+#new{
+    color: blue;
+    background-color: chartreuse;
+    border-radius: 10px;
+    border: solid 20px red;
+}
+.old{
+    color: brown;
+    background-color: deepskyblue;
+    border-radius: 20px;
+    border: dotted 10px green;
+}
+#photo{ 
+    border: solid 10px black;
+    border-radius: 100%;
+    
+}
